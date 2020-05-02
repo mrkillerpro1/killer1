@@ -70,10 +70,10 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 jalan("\033[1;98m   _   _  ___     _     _  _    _    ____  ___    ")
-jalan("\033[1;97m ( `-' )(   )   ( ) __( )( )  ( )  (  __)(   ) ")
-jalan("\033[1,34m | \_/ || O  |  | |/ /| || |  | |  | |_  | O  |  ") 
-jalan("\033[1;94m ( ) ( )( _ (   ( _ ( ( )( )_ ( )_ (  _) ( _ (  ")
-jalan("\033[1,34m /_\ /_\/_\\_|  /_\\_|/_\/___\/___\/____\/_\\_|")
+jalan("\033[1;97m  ( `-' )(   )   ( ) __( )( )  ( )  (  __)(   ) ")
+jalan("\033[34m    | \_/ || O  |  | |/ /| || |  | |  | |_  | O  |  ") 
+jalan("\033[1;94m  ( ) ( )( _ (   ( _ ( ( )( )_ ( )_ (  _) ( _ (  ")
+jalan("\033[34m    /_\ /_\/_\\_|  /_\\_|/_\/___\/___\/____\/_\\_|")
 print  """
 
 \033[1;92m .-,--.     .         .           
@@ -87,7 +87,7 @@ print  """
 \033[1,34m Stay Home 💓
 \033[1,34m Stay Safe 💓
 \033[1;95m Queto : Everting is Possible in The World.( Bill Gates ) 
-\033[1;30m Certified From APTECH Learning Pakistan (SGD).
+\033[34m Certified From APTECH Learning Pakistan (SGD).
 \033[1,34m
 """
 
